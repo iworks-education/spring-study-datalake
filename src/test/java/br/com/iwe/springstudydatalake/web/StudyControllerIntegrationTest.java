@@ -1,7 +1,6 @@
 package br.com.iwe.springstudydatalake.web;
 
 import br.com.iwe.springstudydatalake.resource.StudyResource;
-import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

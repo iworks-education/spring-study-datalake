@@ -1,9 +1,8 @@
 package br.com.iwe.springstudydatalake.resource;
 
-import br.com.iwe.springstudydatalake.model.Study;
-import com.fasterxml.jackson.annotation.JsonProperty;
-
 import java.time.LocalDateTime;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
 
 public class StudyResource {
 
